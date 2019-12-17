@@ -1,5 +1,5 @@
 {
-  "name": "react-native-yusha-customkeyboard",
+  "name": "react-native-yusha-custom-keyboard",
   "version": "0.1.2",
   "description": "react native custom keyboard",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lyxia/react-native-yusha-customKeyboard.git"
+    "url": "https://github.com/8Securities/react-native-yusha-custom-keyboard.git"
   },
   "keywords": [
     "react-component",
