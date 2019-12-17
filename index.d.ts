@@ -1,4 +1,4 @@
-declare module 'react-native-yusha-customkeyboard' {
+declare module 'react-native-yusha-custom-keyboard' {
   import React, { ComponentType } from 'react';
   import {
     Constructor,
